@@ -4,7 +4,7 @@
 # Sobre o projeto
 O EasyBuy é um gerenciador de pedidos de produtos no qual implementa-se todas as operções de CRUD.
 
-O web service foi criado durante o curso **Programação Orientada a Objetos com Java**, ministrado pelo professor Nélio Alves, e conta com as tecnologias Spring Boot e JPA/Hibernate.
+O web service foi criado durante o curso **Programação Orientada a Objetos com Java**, ministrado pelo professor Nélio Alves, e conta com as tecnologias Spring Boot e Spring Data JPA.
  
 ## Modelo de domínio
 ![Modelo Conceitual](https://github.com/DacioMP/assets/raw/main/easybuy_domain_model.PNG)
@@ -12,7 +12,7 @@ O web service foi criado durante o curso **Programação Orientada a Objetos com
 # Tecnologias utilizadas :coffee:
 - Java 17
 - Spring Boot 3
-- JPA/Hibernate
+- Spring Data JPA
 - PostgreSQL
 - H2
 - Maven
